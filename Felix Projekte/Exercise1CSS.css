@@ -6,15 +6,11 @@ h1 {
     color: blue;
 }
 
-#third > span {
-    visibility: hidden;
-}
-
-#fifth > p {
-    display: none;
-}
-
 #sixth > img {
     height: 300px;
     width: 300px;
+}
+
+#fifth > p {
+    color:blueviolet;
 }
