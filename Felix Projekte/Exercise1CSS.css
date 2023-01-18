@@ -14,7 +14,7 @@ h1 {
     display: none;
 }
 
-sixth > img {
+#sixth > img {
     height: 300px;
     width: 300px;
 }
