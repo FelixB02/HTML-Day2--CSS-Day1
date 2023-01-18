@@ -1,0 +1,30 @@
+#div1 {
+    margin: 5px;
+}
+
+#picture1 {
+   width: 100%;
+}
+
+#hero {
+    text-align: center;
+    margin: 5px;
+}
+
+#hero2 {
+    text-align: center;
+    margin: 5px;
+}
+
+#picture2 {
+    width: 200;
+}
+
+#Paragraph {
+    text-align: center;
+    font-size: xx-small;
+}
+
+.heading {
+    color: lightslategray;
+}
