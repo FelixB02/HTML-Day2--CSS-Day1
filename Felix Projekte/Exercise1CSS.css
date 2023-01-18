@@ -1,5 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 div {
-    margin: 5px;
+    margin: 10px;
 }
 
 h1 {
@@ -13,4 +19,8 @@ h1 {
 
 #fifth > p {
     color:blueviolet;
+}
+
+#form {
+    margin: 20px;
 }
